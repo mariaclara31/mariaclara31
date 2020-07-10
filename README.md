@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mariaclara31)](https://github.com/mariaclara31)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-clara-lemos-monteiro/)](https://www.linkedin.com/in/maria-clara-lemos-monteiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claramonteiro.21@gmail.com)](mailto:claramonteiro.21.bec@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@claramonteiro.21)](https:https://medium.com/@claramonteiro.21)
 
  ### Hello there! :raising_hand: 
  ### Welcome to my GitHub Profile! :octocat::fireworks:

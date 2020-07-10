@@ -10,7 +10,7 @@
 - :computer: I’m currently working on back-end at the Seidor
 - 🌱 I’m currently learning more about front-end, UX/UI Design and Big Data.
 - :green_heart: A completely passionate Node.js
-- :heartbeat: Angular, React, Python
+- :heartbeat: Angular, React, Python, JavaScript, Java
 - :computer: Data Engineering and Machine Learning enthusiast 
 
 

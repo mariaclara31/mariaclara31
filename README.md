@@ -7,7 +7,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=Stackoverflow&logoColor=black&link=https://pt.stackoverflow.com/users/187802/maria-clara-monteiro)](https://pt.stackoverflow.com/users/187802/maria-clara-monteiro)
 
  ### Hello there! :raising_hand: 
- ### Welcome to my GitHub Profile! :octocat: :fireworks:
+ ### Welcome to my GitHub Profile! :octocat: 
 
 - :woman_student: Brazilian Telecommunication Engineer
 - :computer: I’m currently working on back-end at the Seidor

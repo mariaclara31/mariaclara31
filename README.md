@@ -10,6 +10,7 @@
  ### Welcome to my GitHub Profile! :octocat: 
 
 - :woman_student: Brazilian Telecommunication Engineer
+- 👩‍💻:Master's in Software Engineering
 - :computer: I’m software application developer at IBM 
 - 🌱 I’m currently learning more about back-end, front-end, UX/UI Design, Cloud computing and AI.
 - :green_heart: A completely passionate  ![Node Badge](https://img.shields.io/badge/-Node-darkgreen?style=flat-square&logo=Node.js&logoColor=black), ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=black),  ![JavaScript Badge](https://img.shields.io/badge/-Javascript-gold?style=flat-square&logo=Javascript&logoColor=black)
